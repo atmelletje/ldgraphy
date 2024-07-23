@@ -66,7 +66,7 @@ sudo apt-get install libpng-dev -y
 Then compile:
 ```
 cd ldgraphy/src
-make
+sudo make
 ```
 
 To properly prepare the GPIOs and the PRU to be used, you have to install
